@@ -25,7 +25,7 @@ class WoodOperator(EmptyOperator):
     start_date=datetime(2024, 11, 6),
     schedule="5 4 * * *",
     catchup=False,
-    orientation="TB",
+    #orientation="TB",
 )
 def snowman():
 

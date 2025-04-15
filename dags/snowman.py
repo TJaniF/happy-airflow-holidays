@@ -40,7 +40,7 @@ def snowman():
     t8 = SnowOperator(task_id="t8", task_display_name="❄️")
     t9 = SnowOperator(task_id="t9", task_display_name="❄️")
     t10 = SnowOperator(task_id="t10", task_display_name="❄️")
-    q0 = OrangeOperator(task_id="q0", task_display_name="🥕")
+    q0 = OrangeOperator(task_id="q0", task_display_name="TESTTESTTEST")
     q1 = SnowOperator(task_id="q1", task_display_name="❄️")
     q2 = SnowOperator(task_id="q2", task_display_name="❄️")
     q3 = SnowOperator(task_id="q3", task_display_name="❄️")
